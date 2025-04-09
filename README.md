@@ -3,7 +3,7 @@
 
 <!-- Bio -->
 
-<p align="left">
+<p align="center">
     <img src="https://komarev.com/ghpvc/?username=lvbealr&label=Profile%20views&color=ff00d0&style=flat" alt="lvbealr" />
 </p>
 
@@ -35,9 +35,9 @@
 
 <!-- Skills -->
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 
-<p align="left">
+<p align="center">
     <!-- C -->
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -100,10 +100,11 @@
     </a>
 </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lvbealr&theme=transparent)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset=".github/workflows/dist/github-snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset=".github/workflows/dist/github-snake.svg" />
-  <img alt="github-snake" src=".github/workflows/dist/github-snake.svg" />
-</picture>
+<p align = "center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lvbealr&theme=transparent">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset=".github/workflows/dist/github-snake.svg" />
+      <source media="(prefers-color-scheme: light)" srcset=".github/workflows/dist/github-snake.svg" />
+      <img alt="github-snake" src=".github/workflows/dist/github-snake.svg" />
+    </picture>
+</p>
