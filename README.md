@@ -7,7 +7,7 @@
     <img src="https://komarev.com/ghpvc/?username=lvbealr&label=Profile%20views&color=ff00d0&style=flat" alt="lvbealr" />
 </p>
 
-- 🔭 I’m currently working on [Hash Table Optimizations](https://github.com/lvbealr/HashTable)
+- 🔭 I’m currently chilling 😮‍💨
 
 - 🌱 I’m currently studying **x86-64, NASM, C++, optimizations**
 
